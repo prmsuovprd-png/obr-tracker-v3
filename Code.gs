@@ -12,7 +12,7 @@
  * 5. Copy the Web App URL and paste it into js/api.js → API_URL
  */
 
-const SHEET_ID   = 'YOUR_GOOGLE_SHEET_ID_HERE'; // ← Replace this
+const SHEET_ID   = '1lLQ1AndZmG7QeXE2NJ7MnCZXYO6W7vtdAYhS11zcf_g'; // ← Replace this
 const SHEET_NAME = 'Records';
 
 // ─── Column order (must match getHeaders()) ───────────────────
