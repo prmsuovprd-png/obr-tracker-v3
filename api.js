@@ -8,7 +8,7 @@
 'use strict';
 
 // ─── REPLACE THIS WITH YOUR WEB APP URL ───────────────────────
-const API_URL = 'https://script.google.com/macros/s/AKfycbw4Upbb5mKgB2X44GVNOuiuFlSe11oRVYMFP615SUwEx_zCJ-SOhm1Klp-Pe_Dj-GXaEQ/execE';
+const API_URL = 'https://script.google.com/macros/s/AKfycbw4Upbb5mKgB2X44GVNOuiuFlSe11oRVYMFP615SUwEx_zCJ-SOhm1Klp-Pe_Dj-GXaEQ/exec';
 // Example:
 // const API_URL = 'https://script.google.com/macros/s/AKfycb.../exec';
 
